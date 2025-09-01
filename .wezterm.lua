@@ -13,9 +13,9 @@ config.initial_rows = 28
 -- or, changing the font size and color scheme.
 config.font_size = 16
 
-config.color_scheme = "Tokyo Night (Gogh)"
+config.color_scheme = "Catppuccin Mocha (Gogh)"
 config.enable_tab_bar = false
-config.window_background_opacity = 0.55
+config.window_background_opacity = 1
 config.window_decorations = "RESIZE"
 config.default_cursor_style = "BlinkingBar"
 
